@@ -28,7 +28,7 @@
 
 ```
 |-WriteOutTheDialect
-|---河南
+|---HeNan
 |-----README.md
 |-----images
 |-------zhong_000.png

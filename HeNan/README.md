@@ -1,7 +1,7 @@
 河南方言
 =====
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/dao_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/dao_000.jpg)
 
 释义：
 
@@ -16,7 +16,7 @@
 
 1.你不吃都可都dao走啦！
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/dui_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/dui_000.jpg)
 
 释义：
 
@@ -31,7 +31,7 @@
 
 1.他duǐ了我一拳。
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/quo_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/quo_000.jpg)
 
 释义：
 
@@ -53,7 +53,7 @@
 
 ```
 [名]1.一种短而尖的刀，称“攮子”。
-[动]2.用攮子或刀刺。
+[动]2.用攮子或刀刺。HeNan
 ```
 
 星级：☆☆☆☆
@@ -62,9 +62,10 @@
 
 1.用攮子攮你。
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/weng_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/weng_000.jpg)
 
 释义：
+
 ```
 [动]推，手抵物体向外或向前用力使物体移动。
 ```
@@ -75,7 +76,7 @@
 
 1.这么多人看热闹，你干嘛光weng我啊？
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/xin_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/xin_000.jpg)
 
 释义：
 
@@ -90,7 +91,7 @@
 
 1.你的旧手机不用了，xín给我吧！
 
-![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/xuo_000.jpg)
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/xuo_000.jpg)
 
 释义：
 

@@ -1,7 +1,14 @@
 河南方言
 =====
 
+声明
+-----
+
+以下文字可能是人造字，并未出现在词典之中，现阶段仅供娱乐
+
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/dao_000.jpg)
+
+`人造字`
 
 释义：
 
@@ -18,6 +25,8 @@
 
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/dui_000.jpg)
 
+`人造字`
+
 释义：
 
 ```
@@ -32,6 +41,8 @@
 1.他duǐ了我一拳。
 
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/quo_000.jpg)
+
+`人造字`
 
 释义：
 
@@ -64,6 +75,8 @@
 
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/weng_000.jpg)
 
+`人造字`
+
 释义：
 
 ```
@@ -77,6 +90,8 @@
 1.这么多人看热闹，你干嘛光weng我啊？
 
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/xin_000.jpg)
+
+`人造字`
 
 释义：
 
@@ -92,6 +107,8 @@
 1.你的旧手机不用了，xín给我吧！
 
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/HeNan/images/xuo_000.jpg)
+
+`人造字`
 
 释义：
 

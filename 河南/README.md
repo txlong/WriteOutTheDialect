@@ -62,6 +62,19 @@
 
 1.用攮子攮你。
 
+![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/weng_000.jpg)
+
+释义：
+```
+[动]推，手抵物体向外或向前用力使物体移动。
+```
+
+星级：☆☆☆☆
+
+造句：
+
+1.这么多人看热闹，你干嘛光weng我啊？
+
 ![image](https://raw.githubusercontent.com/txlong/WriteOutTheDialect/master/河南/images/xin_000.jpg)
 
 释义：
